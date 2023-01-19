@@ -1,27 +1,31 @@
 body {
     background-color: rgb(49, 56, 63);
     color: rgb(21, 160, 192);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Tahoma, verdana;
     font-size: 20px;
 
+} 
+
+#h1{
+    background-color: rgba(220, 176, 17, 0.955);
 }
 
 h1{
-    color: rgb(21, 160, 192);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(49, 56, 63);
+    font-family: Tahoma, verdana;
     font-size: 45px;
     text-align: center;
 }
 
 p{
     color: rgb(220, 176, 17);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Tahoma, verdana;
     font-size: 20px; 
 }
 
 h3{
     color:rgba(185, 2, 2, 0.945);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Tahoma, verdana;
     font-size: 30px;
 }
 
